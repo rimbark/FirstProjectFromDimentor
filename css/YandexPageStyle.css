@@ -1,0 +1,48 @@
+body {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+}
+
+.header {
+    min-width: 1100px;
+    max-width: 1600px;
+    padding-left: 64px;
+}
+
+.logo_place_header {
+    position: absolute;
+}
+
+.text_color {
+    color:  #000000;
+}
+
+.description {
+    margin-top: 100px;
+}
+
+.digits {
+    margin-top: 100px;
+}
+
+.feynman {
+    margin-top: 100px;
+}
+
+.kaufman {
+}
+
+.footer {
+}
+
+.bckgr_dark {
+    background: #1f1f1f;
+}
+
+.bckgr_grey {
+    background: #f2f2f2;
+}
