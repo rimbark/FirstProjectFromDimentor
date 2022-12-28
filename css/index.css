@@ -32,13 +32,24 @@ body {
 }
 
 .header__subtitle {
+    position: absolute;
     width: 388px;
+    height: auto;
     line-height: 25px;
     font-size: 18px;
+    display: inline-block;
 }
 
 .header__subtitle_position {
     position: absolute;
+}
+
+.header__subtitle-link {
+    height: 100px;
+    display: inline-block;
+    right: 65px;
+    line-height: 25px;
+    font-size: 18px;
 }
 
 .text_priority {
@@ -46,9 +57,9 @@ body {
 }
 
 .header__square-pic {
+    position: absolute;
     right: 0;
     top: 64px;
-    position: absolute;
     width: 568px;
     height: 568px;
     background-color: #2f80ed;
@@ -62,6 +73,7 @@ body {
 }
 
 .header__main-illustration_size {
+    position: absolute;
     background: url("/images/two_again.png");
     background-size: cover;
     width: 765px;
