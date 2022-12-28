@@ -1,0 +1,8 @@
+.header__title_placement {
+    width: 730px;
+    display: flex;
+    flex: auto;
+    align-items: center;
+    margin-left: 64px;
+    z-index: 2;
+}
