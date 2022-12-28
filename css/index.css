@@ -1,0 +1,104 @@
+@import url("normalize.css");
+
+body {
+    font-family: 'Helvetica Neue', 'Arial', sans-serif;
+}
+
+.page {
+    margin: auto;
+    min-width: 1100px;
+    max-width: 1600px;
+}
+
+.header {
+    position: relative;
+    min-height: 600px;
+    max-height: 756px;
+    padding-left: 64px;
+}
+
+.header__title {
+    width: 730px;
+    line-height: 96px;
+    font-size: 102px;
+    font-weight: bold;
+}
+
+.header__title_position {
+    flex: auto;
+    display: flex;
+    align-items: center;
+    left: 0;
+}
+
+.header__subtitle {
+    width: 388px;
+    line-height: 25px;
+    font-size: 18px;
+}
+
+.header__subtitle_position {
+    position: absolute;
+}
+
+.text_priority {
+    z-index: 2;
+}
+
+.header__square-pic {
+    right: 0;
+    top: 64px;
+    position: absolute;
+    width: 568px;
+    height: 568px;
+    background-color: #2f80ed;
+}
+
+.header__main-illustration {
+    position: absolute;
+    z-index: 1;
+    bottom: 0;
+    right: 0;
+}
+
+.header__main-illustration_size {
+    background: url("/images/two_again.png");
+    background-size: cover;
+    width: 765px;
+    height: 658px;
+}
+
+.logo_place_header_position {
+    position: absolute;
+    top: 30px;
+}
+
+.text_color {
+    color:  #000000;
+}
+
+.description {
+    margin-top: 100px;
+}
+
+.digits {
+    margin-top: 100px;
+}
+
+.feynman {
+    margin-top: 100px;
+}
+
+.kaufman {
+}
+
+.footer {
+}
+
+.bckgr_dark {
+    background: #1f1f1f;
+}
+
+.bckgr_grey {
+    background: #f2f2f2;
+}
