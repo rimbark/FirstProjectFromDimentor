@@ -1,8 +1,7 @@
 .header__subtitle_placement {
     position: absolute;
     z-index: 2;
-    margin-left: 64px;
-    width: 388px;
-    height: auto;
+    left: 64px;
     bottom: 30px;
+    width: 388px;
 }

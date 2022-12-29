@@ -1,0 +1,7 @@
+.header_placement {
+    position: relative;
+    min-height: 600px;
+    /* хз что делать, если ставлю максимальную то применяется минимальная*/
+    height: 756px;
+    display: flex;
+}
