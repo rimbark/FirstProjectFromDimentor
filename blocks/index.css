@@ -1,0 +1,23 @@
+@import url("normalize.css");
+@import "page/_placement/page_placement.css";
+@import "page/_font-family/page_font-family.css";
+@import "page/header/_placement/_placement.css";
+@import "page/header/_style/header_style.css";
+@import "page/header/logo/_place_header/logo_place_header.css";
+@import "page/header/__title/_placement/_placement.css";
+@import "page/header/__title/_text/_text.css";
+@import "page/header/__subtitle/_placement/_placement.css";
+@import "page/header/__subtitle/_text/_text.css";
+@import "page/header/__link/_placement/_placement.css";
+@import "page/header/__main-illustration/_placement/_placement.css";
+@import "page/header/__main-illustration/_style/_style.css";
+@import "page/header/__square-pic/_placement/_placement.css";
+@import "page/header/__square-pic/_style/_style.css";
+@import "page/content/description/_placement/_placement.css";
+@import "page/content/description/two-columns/_placement/_placement.css";
+@import "page/content/description/two-columns/__main-text/_m-text/_m-text.css";
+@import "page/content/description/two-columns/__main-text/_placement/_placement.css";
+@import "page/content/description/two-columns/__brief/_placement/_placement.css";
+@import "page/content/description/two-columns/__brief/_h-text/_h-text.css";
+@import "page/content/description/two-columns/__span-accent/text_bold/_text_bold.css";
+
