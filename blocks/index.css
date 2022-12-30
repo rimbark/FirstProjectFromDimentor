@@ -15,10 +15,11 @@
 @import "header/__square-pic/_style/header__square-pic_style.css";
 @import "description/_placement/description_placement.css";
 @import "description/two-columns/_placement/_placement.css";
+@import "description/two-columns/__brief/_h-text/two-columns__brief_h-text.css";
+@import "description/two-columns/__brief/_h-text/two-columns__brief_margin.css";
+@import "description/two-columns/__brief/_placement/two-columns__brief_placement.css";
 @import "description/two-columns/__main-text/_m-text/two-columns__paragraph_m-text.css";
 @import "description/two-columns/__main-text/_placement/two-columns__main-text_placement.css";
 @import "description/two-columns/__paragraph/two-columns__paragraph_margin.css";
-@import "description/two-columns/__brief/_placement/two-columns__brief_placement.css";
-@import "description/two-columns/__brief/_h-text/two-columns__brief_h-text.css";
 @import "description/two-columns/__span-accent/text_bold/two_columns__span-accent_text_bold.css";
 
