@@ -28,8 +28,8 @@
 @import "section-subtitle/_headline-settings/section-subtitle_headline-settings.css";
 @import "section-subtitle/_placement/section-subtitle_placement.css";
 @import "table/_placement/table_placement.css";
-@import "table/table__cell/_size/table__cell-size.css";
-@import "table/table__cell/_margin-bot/table__heading_margin-bot.css";
-@import "table/table__cell/_paragraph_settings/table__cell_paragraph-settings.css";
-@import "table/table__cell/_headline-settings/table__cell_headline-settings.css";
-@import "table/_text/_inside-settings/table__text_inside-settings.css";
+@import "table/__cell/_size/table__cell-size.css";
+@import "table/__heading/_margin-bot/table__heading_margin-bot.css";
+@import "table/__cell/_paragraph_settings/table__cell_paragraph-settings.css";
+@import "table/__heading/_headline-settings/table__cell_headline-settings.css";
+@import "table/__text/_inside-settings/table__text_inside-settings.css";
