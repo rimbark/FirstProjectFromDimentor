@@ -22,4 +22,14 @@
 @import "description/two-columns/__main-text/_placement/two-columns__main-text_placement.css";
 @import "description/two-columns/__paragraph/two-columns__paragraph_margin.css";
 @import "description/two-columns/__span-accent/text_bold/two_columns__span-accent_text_bold.css";
-
+@import "digits/_placement/digits_placement.css";
+@import "section-title/_placement/section-title_placement.css";
+@import "section-title/_headline-settings/section-title_headline-settings.css";
+@import "section-subtitle/_headline-settings/section-subtitle_headline-settings.css";
+@import "section-subtitle/_placement/section-subtitle_placement.css";
+@import "table/_placement/table_placement.css";
+@import "table/table__cell/_size/table__cell-size.css";
+@import "table/table__cell/_margin-bot/table__heading_margin-bot.css";
+@import "table/table__cell/_paragraph_settings/table__cell_paragraph-settings.css";
+@import "table/table__cell/_headline-settings/table__cell_headline-settings.css";
+@import "table/_text/_inside-settings/table__text_inside-settings.css";

@@ -1,0 +1,8 @@
+.table_placement {
+    width: 1100px;
+    margin-top: 60px;
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 60px;
+    justify-content: space-between;
+}
