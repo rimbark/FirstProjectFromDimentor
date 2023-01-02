@@ -41,3 +41,14 @@
 @import "feynman/__subtitle/_font-settings/feynman__subtitle_font-settings.css";
 @import "feynman/__link/_placement/feynman__link_placement.css";
 @import "feynman/__link/_font-settings/feynman__link_font-settings.css";
+@import "kaufman/kaufman_style/kaufman_style.css";
+@import "kaufman/_placement/kaufman_placement.css";
+@import "table/__cell/_paragraph_settings/table__cell_paragraph-settings_theme_dark.css";
+@import "table/__heading/_headline-settings/table__heading_headline-settings_theme_dark.css";
+@import "section-title/_headline-settings/section-title_headline-settings_theme_dark.css";
+@import "section-subtitle/_headline-settings/section-subtitle_headline-settings_theme_dark.css";
+@import "table/__cell/_paragraph_settings/table__cell_paragraph-settings_theme_dark.css";
+@import "table/__cell/_size/table__cell_size_theme_dark.css";
+@import "table/_placement/table_placement_theme_dark.css";
+@import "section-title/_placement/section-title_placement_theme_dark.css";
+@import "kaufman/__triangle/kaufman__triangle_background_image.css";

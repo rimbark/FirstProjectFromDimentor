@@ -1,3 +1,6 @@
 .table__heading_headline-settings {
     margin: 0;
+    line-height: 1.15;
+    font-size: 24px;
+    font-weight: bold;
 }
