@@ -33,3 +33,12 @@
 @import "table/__cell/_paragraph_settings/table__cell_paragraph-settings.css";
 @import "table/__heading/_headline-settings/table__cell_headline-settings.css";
 @import "table/__text/_inside-settings/table__text_inside-settings.css";
+@import "feynman/_placement/feynman_placement.css";
+@import "feynman/_background_color/feynman_background_color.css";
+@import "feynman/_background_image/feynman_background_image.css";
+@import "feynman/__title/_placement/feynman__title_placement.css";
+@import "feynman/__title/_font-settings/feynman__title_font-settings.css";
+@import "feynman/__subtitle/_placement/feynman__subtitle_placement.css";
+@import "feynman/__subtitle/_font-settings/feynman__subtitle_font-settings.css";
+@import "feynman/__link/_placement/feynman__link_placement.css";
+@import "feynman/__link/_font-settings/feynman__link_font-settings.css";
