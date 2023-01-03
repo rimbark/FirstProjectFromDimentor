@@ -21,7 +21,7 @@
 @import "blocks/section-title/section-title.css";
 @import "blocks/section-subtitle/section-subtitle.css";
 @import "blocks/table/table.css";
-@import "blocks/table/__cell/table__cell-size.css";
+@import "blocks/table/__cell/table__cell.css";
 @import "blocks/table/__heading/table__heading.css";
 @import "blocks/table/__text/table__text.css";
 
@@ -32,10 +32,10 @@
 
 @import "blocks/kaufman/kaufman.css";
 @import "blocks/table/__heading/table__heading_theme_dark.css";
-@import "blocks/section-subtitle/section-subtitle_theme_dark.css";
-@import "blocks/table/__cell/table__cell_theme_dark.css";
-@import "blocks/table/table_theme_dark.css";
-@import "blocks/section-title/section-title_theme_dark.css";
+@import "blocks/section-subtitle/_theme_dark/section-subtitle_theme_dark.css";
+@import "blocks/table/__cell/_theme_dark/table__cell_theme_dark.css";
+@import "blocks/table/_theme_dark/table_theme_dark.css";
+@import "blocks/section-title/_theme_dark/section-title_theme_dark.css";
 @import "blocks/kaufman/__triangle/kaufman__triangle.css";
 
 @import "blocks/footer/footer.css";
