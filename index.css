@@ -1,0 +1,49 @@
+@import url("normalize.css");
+@import "blocks/page/page.css";
+
+@import "blocks/header/header.css";
+@import "blocks/logo/_place_header/logo_place_header.css";
+@import "blocks/logo/logo.css";
+@import "blocks/header/__title/header__title.css";
+@import "blocks/header/__subtitle/header__subtitle.css";
+@import "blocks/header/__link/header__link.css";
+@import "blocks/header/__main-illustration/header__main-illustration.css";
+@import "blocks/header/__square-pic/header__square-pic.css";
+
+@import "blocks/description/description.css";
+@import "blocks/two-columns/two_columns.css";
+@import "blocks/two-columns/__brief/two-columns__brief.css";
+@import "blocks/two-columns/__main-text/two-columns__main-text.css";
+@import "blocks/two-columns/__paragraph/two-columns__paragraph.css";
+@import "blocks/two-columns/__span-accent/two_columns__span-accent.css";
+
+@import "blocks/digits/digits.css";
+@import "blocks/section-title/section-title.css";
+@import "blocks/section-subtitle/section-subtitle.css";
+@import "blocks/table/table.css";
+@import "blocks/table/__cell/table__cell-size.css";
+@import "blocks/table/__heading/table__heading.css";
+@import "blocks/table/__text/table__text.css";
+
+@import "blocks/feynman/feynman.css";
+@import "blocks/feynman/__title/feynman__title.css";
+@import "blocks/feynman/__subtitle/feynman__subtitle.css";
+@import "blocks/feynman/__link/feynman__link.css";
+
+@import "blocks/kaufman/kaufman.css";
+@import "blocks/table/__heading/table__heading_theme_dark.css";
+@import "blocks/section-subtitle/section-subtitle_theme_dark.css";
+@import "blocks/table/__cell/table__cell_theme_dark.css";
+@import "blocks/table/table_theme_dark.css";
+@import "blocks/section-title/section-title_theme_dark.css";
+@import "blocks/kaufman/__triangle/kaufman__triangle.css";
+
+@import "blocks/footer/footer.css";
+@import "blocks/logo/_place_footer/logo_place_footer.css";
+@import "blocks/footer/__columns/footer__columns.css";
+@import "blocks/footer/__author/footer__author.css";
+@import "blocks/footer/__column/_content/_content_copyright/footer__column_content_copyright.css";
+@import "blocks/footer/__column-link/footer__column-link.css";
+@import "blocks/footer/__column-links/footer__column-links.css";
+@import "blocks/footer/__column-link/footer__column-link.css";
+@import "blocks/footer/__column-heading/footer__column-heading.css";

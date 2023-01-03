@@ -1,7 +1,0 @@
-.two-columns__main-text_placement {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 30px;
-    width: 80%;
-    min-width: 784px;
-}

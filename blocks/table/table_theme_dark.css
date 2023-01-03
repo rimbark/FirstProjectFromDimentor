@@ -1,0 +1,7 @@
+.table_theme_dark {
+    padding-top: 80px;
+    margin-bottom: 90px;
+    margin-top: 0;
+    row-gap: 80px;
+    z-index: 2;
+}

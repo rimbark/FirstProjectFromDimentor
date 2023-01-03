@@ -1,0 +1,8 @@
+.footer {
+    min-height: 350px;
+    padding-top: 60px;
+    padding-bottom: 40px;
+
+    background: black;
+    color: #f2f2f2;
+}

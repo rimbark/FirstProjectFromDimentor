@@ -1,7 +1,0 @@
-.kaufman_placement {
-    position: relative;
-    display: flex;
-    flex-flow: column wrap;
-    align-items: center;
-    overflow: hidden;
-}
