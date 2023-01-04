@@ -9,6 +9,7 @@
 @import "blocks/header/__link/header__link.css";
 @import "blocks/header/__main-illustration/header__main-illustration.css";
 @import "blocks/header/__square-pic/header__square-pic.css";
+@import "blocks/rotation/rotation.css";
 
 @import "blocks/description/description.css";
 @import "blocks/two-columns/two_columns.css";
@@ -16,6 +17,24 @@
 @import "blocks/two-columns/__main-text/two-columns__main-text.css";
 @import "blocks/two-columns/__paragraph/two-columns__paragraph.css";
 @import "blocks/two-columns/__span-accent/two_columns__span-accent.css";
+
+@import "blocks/techniques/techniques.css";
+@import "blocks/cards/cards.css";
+@import "blocks/cards/__item/cards__item.css";
+@import "blocks/cards/__image/cards__image.css";
+@import "blocks/cards/__title/cards__title.css";
+@import "blocks/cards/__description/cards__description.css";
+
+@import "blocks/video/video.css";
+@import "blocks/video/__iframes/video__iframes.css";
+@import "blocks/video/__iframe/video__iframe.css";
+
+@import "blocks/oakley/oakley.css";
+
+@import "blocks/feynman/feynman.css";
+@import "blocks/feynman/__title/feynman__title.css";
+@import "blocks/feynman/__subtitle/feynman__subtitle.css";
+@import "blocks/feynman/__link/feynman__link.css";
 
 @import "blocks/digits/digits.css";
 @import "blocks/section-title/section-title.css";
@@ -25,10 +44,16 @@
 @import "blocks/table/__heading/table__heading.css";
 @import "blocks/table/__text/table__text.css";
 
-@import "blocks/feynman/feynman.css";
-@import "blocks/feynman/__title/feynman__title.css";
-@import "blocks/feynman/__subtitle/feynman__subtitle.css";
-@import "blocks/feynman/__link/feynman__link.css";
+@import "blocks/khan/khan.css";
+@import "blocks/khan/__container/khan__container.css";
+@import "blocks/khan/__author/khan__author.css";
+@import "blocks/khan/__title/khan__title.css";
+@import "blocks/khan/__quote/khan__quote.css";
+@import "blocks/khan/__quote-author/khan__quote-author.css";
+@import "blocks/khan/__quote-author-subline/khan__quote-author-subline.css";
+@import "blocks/khan/__book-container/khan__book-container.css";
+@import "blocks/khan/__book-pic/khan__book-pic.css";
+@import "blocks/khan/__buy-link/khan__buy-link.css";
 
 @import "blocks/kaufman/kaufman.css";
 @import "blocks/table/__heading/table__heading_theme_dark.css";

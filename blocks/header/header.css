@@ -5,4 +5,5 @@
     display: flex;
 
     background:  #f2f2f2;
+    overflow: hidden;
 }
