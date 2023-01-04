@@ -1,4 +1,6 @@
 .khan {
+    max-height: 915px;
     margin: 105px 0 0 0;
     background-color: #f2f2f2;
+    overflow: hidden;
 }

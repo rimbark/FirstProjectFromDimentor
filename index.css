@@ -63,6 +63,10 @@
 @import "blocks/section-title/_theme_dark/section-title_theme_dark.css";
 @import "blocks/kaufman/__triangle/kaufman__triangle.css";
 
+@import "blocks/resources/resources.css";
+@import "blocks/resources/__logo-zone/resources__logo-zone.css";
+@import "blocks/resources/__logo/resources__logo.css";
+
 @import "blocks/footer/footer.css";
 @import "blocks/logo/_place_footer/logo_place_footer.css";
 @import "blocks/footer/__columns/footer__columns.css";
