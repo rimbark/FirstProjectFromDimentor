@@ -1,7 +1,5 @@
 .khan__book-container {
     margin-top: 68px;
     display: flex;
-    align-items: start;
     column-gap: 48px;
-    object-fit: cover;
 }
