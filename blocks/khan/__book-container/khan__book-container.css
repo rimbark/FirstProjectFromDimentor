@@ -2,4 +2,5 @@
     margin-top: 68px;
     display: flex;
     column-gap: 48px;
+    align-items: start;
 }
