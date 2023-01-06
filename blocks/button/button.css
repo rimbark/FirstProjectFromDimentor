@@ -1,0 +1,23 @@
+.button {
+    width: 160px;
+    height: 160px;
+    margin: 60px 40px 43px;
+    border-radius: 50%;
+    font-weight: bolder;
+    border: none;
+    background-color: #2f80ed;
+    transition: all 0.5s;
+}
+
+.button:hover {
+    transform: rotate(720deg);
+    background-color: darkred;
+    box-shadow: inset 0 0 20px rgba(0,0,0,1),
+    0 2px 0 rgba(255,255,255,.8),
+    inset 0 2px 0 rgba(0,0,0,.1);
+}
+
+.button:active {
+    background-color: aqua;
+    transition: 0.1s;
+}
